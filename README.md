@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Daniel Rovira 😁
+## Bem-vindo(a) ao perfil de Daniel Rovira 😁
 
  <div>
   <a href="https://github.com/danielrovira">
